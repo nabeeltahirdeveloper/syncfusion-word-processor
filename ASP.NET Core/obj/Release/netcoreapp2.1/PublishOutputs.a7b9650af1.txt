@@ -1,0 +1,26 @@
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\wwwroot\documenteditor\data-default.json
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\wwwroot\documenteditor\import-helper.js
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\wwwroot\favicon.ico
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\wwwroot\Files\Getting Started.docx
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\appsettings.Development.json
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\appsettings.json
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\PdfExport.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\PdfExport.runtimeconfig.json
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\PdfExport.pdb
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\SkiaSharp.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.Compression.Portable.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.DocIO.Portable.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.DocIORenderer.Portable.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.EJ2.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.EJ2.DocumentEditor.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.Licensing.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.OfficeChart.Portable.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.Pdf.Portable.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\Syncfusion.SkiaSharpHelper.Portable.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\PdfExport.Views.dll
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\PdfExport.Views.pdb
+C:\Users\Umair\Desktop\Export-document-as-PDF-in-Document-Editor-main\ASP.NET Core\bin\Release\netcoreapp2.1\publish\PdfExport.deps.json

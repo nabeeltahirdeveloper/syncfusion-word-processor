@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Umair\\Desktop\\Export-document-as-PDF-in-Document-Editor-main\\ASP.NET Core\\PdfExport.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Umair\\Desktop\\Export-document-as-PDF-in-Document-Editor-main\\ASP.NET Core\\PdfExport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Umair\\Desktop\\Export-document-as-PDF-in-Document-Editor-main\\ASP.NET Core\\PdfExport.csproj",
+        "projectName": "PdfExport",
+        "projectPath": "C:\\Users\\Umair\\Desktop\\Export-document-as-PDF-in-Document-Editor-main\\ASP.NET Core\\PdfExport.csproj",
+        "packagesPath": "C:\\Users\\Umair\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Umair\\Desktop\\Export-document-as-PDF-in-Document-Editor-main\\ASP.NET Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Umair\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Syncfusion.DocIORenderer.Net.Core": {
+              "target": "Package",
+              "version": "[19.3.0.55, )"
+            },
+            "Syncfusion.EJ2.AspNet.Core": {
+              "target": "Package",
+              "version": "[19.3.0.54, )"
+            },
+            "Syncfusion.EJ2.WordEditor.AspNet.Core": {
+              "target": "Package",
+              "version": "[19.3.0.54, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
